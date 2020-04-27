@@ -1,0 +1,16 @@
+especializacion('Ingenieria de Software').
+especializacion('Proyectos Informaticos').
+especializacion('S Informacion Geograficas').
+
+:- dynamic especializacion/2.
+
+
+:- dynamic materia/2.
+
+materia(bd3, ing).
+materia(db3, ing).
+materia(bd, 'Ingenieria de Software').
+materia(bd2, 'Ingenieria de Software').
+materia('Ing SW', 'Ingenieria de Software').
+materia(gerencia, 'S Informacion Geograficas').
+
