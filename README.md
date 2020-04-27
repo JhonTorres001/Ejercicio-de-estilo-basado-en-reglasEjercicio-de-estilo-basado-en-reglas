@@ -23,5 +23,6 @@ Desarrollo de sistema libre usando el un servicio basado en el estilo arquitectu
 - Prolog
 - Visual Studio Code
 
+![Captura de pantalla 2020-04-27 a la(s) 6 29 09 p  m](https://user-images.githubusercontent.com/15526824/80430762-3ce01d00-88b5-11ea-9cfc-02c81f08e1eb.png)
 
 
