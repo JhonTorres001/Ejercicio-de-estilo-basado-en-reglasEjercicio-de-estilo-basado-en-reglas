@@ -1,4 +1,8 @@
 
+## Actividad Prolog: 
+
+Desarrollo de sistema libre usando el un servicio basado en el estilo arquitectural basado en reglas de negocio
+
 ## Universidad Francisco Jose de Caldas
 
 # Presentado a: 
