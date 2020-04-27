@@ -16,3 +16,12 @@ Desarrollo de sistema libre usando el un servicio basado en el estilo arquitectu
 - Wilson Heli Villamizar Valencia (20201099050) 
 - Alejandro Lopez Castañeda       (20201099037)
 - Jhon Fredy Torres Ramírez       (20201099048)
+
+## Desarrollo:
+
+# Herramientas Usadas:
+- Prolog
+- Visual Studio Code
+
+
+
